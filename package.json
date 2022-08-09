@@ -46,7 +46,7 @@
   },
   "homepage": "https://github.com/yorch/pino-dataset-transport#readme",
   "dependencies": {
-    "dataset-logger": "^1.0.0",
+    "dataset-logger": "^1.0.1",
     "pino-abstract-transport": "1.0.0"
   },
   "devDependencies": {

@@ -2199,10 +2199,10 @@ data-urls@^2.0.0:
     whatwg-mimetype "^2.3.0"
     whatwg-url "^8.0.0"
 
-dataset-logger@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/dataset-logger/-/dataset-logger-1.0.0.tgz#e4693d4f36b89444c44056b21197f3fd3e1216bb"
-  integrity sha512-LO7LThsnhkSixFq6TxWZhp9896rfh9SZez3ncZUNvv9ZMEjK4jWMR5TVxC74E9WLKpDAGPh16Es9LnZFNB/jAA==
+dataset-logger@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/dataset-logger/-/dataset-logger-1.0.1.tgz#0786d8a1bbf3d52f9759c7bb9493f207a14839dd"
+  integrity sha512-QPynM6iNpKUCrAexyu68T8ESjTtXnxWdOTIGSPoVI5UGL2v+q/VwS0DY3HEJ1gtDiukH858g6gceW2bWDV3UWA==
   dependencies:
     got "^11.8.5"
 
